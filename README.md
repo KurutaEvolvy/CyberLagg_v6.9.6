@@ -1,30 +1,30 @@
-#THIS PLUGIB WILL BE CHANGED TO ANTIVIRUSMCPE
-    Created By Top Developer Indonesia
+# THIS PLUGIB WILL BE CHANGED TO ANTIVIRUSMCPE
+    Created By A Developer From Indonesia
                 _KurutaSora_
-#INFO :
+# INFO
+
 - My Github : https://github.com/KurutaEvolvy
 - My Friend : https://github.com/NightmareCybers
   -=This Languange Plugin Is Indonesian=-
 
-   #Command :
-  » /cyberlagg check
-        • Check All Entities
+# Command
 
-  » /cyberlagg clear
-       • Clear Lagg Entities
+- /cyberlagg check: Check All Entities
 
-  » /cyberlagg killmobs
-       • Clear Mobs Entities
+- /cyberlagg clear: Clear Lagg Entities
 
-  » /cyberlagg clearall
-       • Clear All Entities
-    It's Recommended To Use TimeCommander
+- /cyberlagg killmobs: Clear Mobs Entities
 
-#Link Download :
+- /cyberlagg clearall: Clear All Entities
+
+__It's Recommended To Use TimeCommander__
+
+# Download Link
 
 https://github.com/KurutaEvolvy/CyberLagg_v6.9.6/releases/download/CyberLagg_v6.9.6/CyberLagg_v6.9.6.zip
 
- #My Official :
-    IP : Cyber-Realms.zapto.org
-           Port : 19132
+# My Server
+
+IP: Cyber-Realms.zapto.org
+Port: 19132
    
